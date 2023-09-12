@@ -31,4 +31,4 @@ jobs:
           if curl -s -N 'https://github.com/margohpolo' | grep -q 'Hi There '; then
             echo "Success! 🥳"; exit 0; else
             echo "Not Successful 😥"; exit 1
-          fi
+          fi;
