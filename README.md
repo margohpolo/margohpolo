@@ -78,8 +78,10 @@ This is what I'm currently working on:
 <br />
  A code refactoring exercise; pushing the limits of what can be learnt from just 100 lines of smelly code.
  <br />
+<br />
  Did take the opportunity to set up a local instance of SonarQube; seeme like SonarQube doesn't capture design pattern smells by default, only the glaringly obvious code smells. Then again, it would be a stretch to expect even ChatGPT to review design patterns well, at least at this point in time.
  <br />
+<br />
  This Repo will be updated once it's good to go.
 </details>
 <br />
