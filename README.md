@@ -1,16 +1,83 @@
-### Hi there 👋
+### Hi There :wave:
+<br />
+Thanks for stopping by.
+<br />
+<br />
+As a hands-on learner, I sometimes tinker/build when I have the time.
+<br />
+<br />
+These are some of the projects I've worked on previously:
+<br />
+<br />
+<details>
+<summary>C#/.NET</summary>
+<br />
+<details>
+<summary><a href="https://github.com/margohpolo/WebSot" target="_blank">"Project WebSot"</a></summary>
+<br />
+ A quick build to understand WebSockets across 2 of the more popular WebSocket Libraries, namely <a href="https://github.com/statianzo/Fleck" target="_blank">Fleck</a> for the Server and <a href="https://github.com/sta/websocket-sharp" target="_blank">WebSocket-Sharp</a> for the Console Client.
+<br />
+<br />
+ In hindsight, could've chosen a better Client Library for better feature support, e.g. custom HTTP Headers.
+</details>
+<br />
+<details>
+<summary><a href="https://github.com/margohpolo/wwimporters/tree/master" target="_blank">"Project WWImporters"</a></summary>
+<br />
+Some exploration into Clean Architecture and EFCore started here.
+<br />
+<br />
+Features:
+ <ul>
+    <li>Reverse-scaffolded the Microsoft example WideWorldImporters DB.</li>
+    <li>Added ability to run SQL Scripts (including StoredProcedures) after EF Migrations.</li>
+    <li>Added Unit Tests to strictly enforce Clean Architecture at a high level.</li>
+ </ul>
+<br />
+Other Notes:
+<ul>
+    <li>SystemConfig Tables can be seeded with default values OnCreate.</li>
+    <li>History Table handling approach pending.</li>
+    <li>Data archiving approach pending.</li>
+    <li>"Disposable" DB containers can be introduced for Integration Unit Testing - apparently it's common for Azure projects.</li>
+    <li>Noted that the original design still had primitive obsession to be resolved.</li>
+</ul>
+</details>
+<br />
+<details>
+<summary><a href="https://github.com/margohpolo/DataPOC/tree/main" target="_blank">DataPOC</a></summary>
+<br />
+ A quick POC Solution for generating Documentation of DB Schema. Supports MarkDown, JSON as well as Excel outputs. While MarkDown and Excel were chosen as the default human-readable options, JSON was included in the scope for future extensibility to support Azure Data Factory mappings.
+<br />
+<br />
+One possible practical use of this Project is to be an Azure Function, triggered upon pipeline build, to update Wikis and other documentation. 
+</details>
+<br />
+<br />
+</details>
+<br />
+<details>
+<summary>React/JavaScript</summary>
+<br />
+<details>
+<summary><a href="https://github.com/margohpolo/Countdown" target="_blank">Countdown Timer</a></summary>
+<br />
+Inspired by several brilliant Frontend Developers on my team, I decided to tinker a little with React and JavaScript.
+<br />
+<br />
+A preference for going with custom SVGs instead of using D3 is still held; intending to revisit this when it's time for more Frontend/JavaScript practical sessions. 
+</details>
+</details>
 
-<!--
-**margohpolo/margohpolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+This is what I'm currently working on:
+<br />
+<br />
+<details>
+<summary>[C#] <a href="https://github.com/margohpolo/TicTacToeDotNet" target="_blank"> TicTacToeDotNet</a></summary>
+<br />
+ A code refactoring exercise; pushing the limits of what can be learnt from just 100 lines of smelly code.
+ <br />
+ This Repo will be updated once it's good to go.
+</details>
+<br />
