@@ -50,7 +50,7 @@ Other Notes:
  A quick POC Solution for generating Documentation of DB Schema. Supports MarkDown, JSON as well as Excel outputs. While MarkDown and Excel were chosen as the default human-readable options, JSON was included in the scope for future extensibility to support Azure Data Factory mappings.
 <br />
 <br />
-One possible practical use of this Project is to be an Azure Function, triggered upon pipeline build, to update Wikis and other documentation. 
+One possible practical use of this Project is to be a Nuget Package that, upon pipeline build, sends the blobs (or streams of bytes?) to update Wikis and other documentation. 
 </details>
 <br />
 <br />
