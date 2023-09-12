@@ -28,7 +28,11 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          if curl -s -N 'https://github.com/margohpolo/' | grep -q 'Hi There '; then
-            echo "Success! 🥳"; exit 0; else
-            echo "Not Successful 😥"; exit 1
+          if curl -s -N 'https://github.com/margohpolo/' | grep -q 'Hi There '; 
+          then
+            echo "Success! 🥳"; 
+            exit 0; 
+          else
+            echo "Not Successful 😥"; 
+            exit 1;
           fi
