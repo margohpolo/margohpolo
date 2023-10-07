@@ -13,6 +13,14 @@ These are some of the projects I've worked on previously:
 <summary>C#/.NET</summary>
 <br />
 <details>
+<summary><a href="https://github.com/margohpolo/USBPOC" target="_blank">USB</a></summary>
+<br />
+Explored a couple of different ways to get details on connected USB devices, including via a PowerShell instance.
+<br />
+Also built XML documentation of code.
+</details>
+<br />
+<details>
 <summary><a href="https://github.com/margohpolo/WebSot" target="_blank">"Project WebSot"</a></summary>
 <br />
  A quick build to understand WebSockets across 2 of the more popular WebSocket Libraries, namely <a href="https://github.com/statianzo/Fleck" target="_blank">Fleck</a> for the Server and <a href="https://github.com/sta/websocket-sharp" target="_blank">WebSocket-Sharp</a> for the Console Client.
