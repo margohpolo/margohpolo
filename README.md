@@ -17,11 +17,14 @@ These are some of the projects I've worked on previously:
 <br />
 Some exploration into Strong Typing in C#.
 <br />
-Calculations, with Custom Operators - <a href="http://repo.margohpolo.com/margohpolo/IncomeTaxCalculatorPOC">here</a>
 <br />
-Also explored EF mappings of strong types - <a href="http://repo.margohpolo.com/margohpolo/PropertyTaxCalculator">here</a>
+Calculations, with Custom Operators - <a href="http://repo.margohpolo.com/margohpolo/IncomeTaxCalculatorPOC">here</a>.
 <br />
-Will be returning to this, perhaps to build a website that'll be useful for people.
+<br />
+Also explored EF mappings of strong types - <a href="http://repo.margohpolo.com/margohpolo/PropertyTaxCalculator">here</a>.
+<br />
+<br />
+Will be returning to this, perhaps to build a website that'll be useful for people (.NET 8 Blazor...?)
 </details>
 <br />
 <details>
