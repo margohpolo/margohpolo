@@ -18,6 +18,9 @@ These are some of the projects I've worked on previously:
 Some exploration into Strong Typing in C#.
 <br />
 <br />
+Equality checks with Reflections used in overriding GetHashCode() - <a href="https://github.com/margohpolo/Equality" target="_blank">here</a>.
+<br />
+<br />
 Calculations, with Custom Operators - <a href="http://repo.margohpolo.com/margohpolo/IncomeTaxCalculatorPOC" target="_blank">here</a>.
 <br />
 <br />
