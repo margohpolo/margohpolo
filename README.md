@@ -19,15 +19,6 @@ Some exploration into Strong Typing in C#.
 <br />
 <br />
 Equality checks with Reflections used in overriding GetHashCode() - <a href="https://github.com/margohpolo/Equality" target="_blank">here</a>.
-<br />
-<br />
-Calculations, with Custom Operators - <a href="http://repo.margohpolo.com/margohpolo/IncomeTaxCalculatorPOC" target="_blank">here</a>.
-<br />
-<br />
-Also explored EF mappings of strong types - <a href="http://repo.margohpolo.com/margohpolo/PropertyTaxCalculator" target="_blank">here</a>.
-<br />
-<br />
-Will be returning to this, perhaps to build a website that'll be useful for people (.NET 8 Blazor...?)
 </details>
 <br />
 <details>
