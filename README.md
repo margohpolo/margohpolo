@@ -13,6 +13,14 @@ These are some of the projects I've worked on previously:
 <summary>C#/.NET</summary>
 <br />
 <details>
+<summary><a href="https://github.com/margohpolo/LoanCalculator" target="_blank">Loan Calculator</a></summary>
+<br />
+A very quick .NET-Angular refresher, with an EMI (Equal Monthly Installation) approach to calculating the Loan Repayment Schedule.
+<br />
+Includes Strongly-Typed ValueObjects, Unit Tests and <a href="https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview" target="_blank">.NET Aspire</a>.
+</details>
+<br />
+<details>
 <summary>Strong Typing with Value Objects</summary>
 <br />
 Some exploration into Strong Typing in C#.
